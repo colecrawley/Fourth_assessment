@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/colecrawley/Library/CloudStorage/OneDrive-UniversityofLincoln/Year 2/applied programming paradigms/Fourth_assessment",
+      "program": "/Users/colecrawley/Library/CloudStorage/OneDrive-UniversityofLincoln/Year 2/applied programming paradigms/Fourth_assessment/build/Debug/outDebug"
+    }
+  ]
+}
